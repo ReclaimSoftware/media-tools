@@ -1,7 +1,5 @@
 language: objective-c
-script: "bash build.sh"
-compiler:
-  - gcc
+script: "env CC=gcc bash build.sh"
 branches:
   only:
     - master
