@@ -1,7 +1,7 @@
 **Some command-line tools for media**
 
 
-### Tool: hash-frames
+### hash-frames
 
 `PPM-list` &rarr; `hash64(RGB frame pixels)-list`, e.g. for "trust-but-verify" frame accuracy for extracting clips.
 
