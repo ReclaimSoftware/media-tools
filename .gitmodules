@@ -1,0 +1,12 @@
+[submodule "upstream/ccityhash"]
+	path = upstream/ccityhash
+	url = https://github.com/andrewschaaf/ccityhash.git
+[submodule "upstream/RSTest"]
+	path = upstream/RSTest
+	url = https://github.com/ReclaimSoftware/RSTest.git
+[submodule "upstream/RSUtil"]
+	path = upstream/RSUtil
+	url = https://github.com/ReclaimSoftware/RSUtil.git
+[submodule "upstream/RSImg"]
+	path = upstream/RSImg
+	url = https://github.com/ReclaimSoftware/RSImg.git
