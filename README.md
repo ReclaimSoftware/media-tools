@@ -1,5 +1,7 @@
 **Some command-line tools for media**
 
+[![Build Status](https://secure.travis-ci.org/ReclaimSoftware/media-tools.png)](http://travis-ci.org/ReclaimSoftware/media-tools)
+
 
 ### hash-frames
 
