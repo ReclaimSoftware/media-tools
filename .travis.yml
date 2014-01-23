@@ -1,7 +1,6 @@
-language: c
+language: objective-c
 script: "bash build.sh"
 compiler:
-  - clang
   - gcc
 branches:
   only:
@@ -9,3 +8,9 @@ branches:
 notifications:
   email:
     - andrew@andrewschaaf.com
+
+# language: c
+# script: "bash build.sh"
+# compiler:
+#   - clang
+#   - gcc
