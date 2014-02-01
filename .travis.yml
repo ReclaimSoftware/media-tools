@@ -1,5 +1,5 @@
 language: objective-c
-script: "env CC=gcc bash build.sh"
+script: "env CC=gcc bash build.sh && cd mac-show-ppms && xcodebuild"
 branches:
   only:
     - master
